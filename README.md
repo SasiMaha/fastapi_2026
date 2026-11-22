@@ -1,1 +1,11 @@
-# fastapi_2026
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-google-genai
+langchain-text-splitters
+fastapi
+uvicorn
+faiss-cpu
+pypdf
+dotenv
